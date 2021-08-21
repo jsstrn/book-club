@@ -2,10 +2,7 @@
 
 ## 🗓 Schedule
 
-| Date   | Book   | Chapter(s)  | 
-|--------|--------|-------------|
-| X      | X      | X           |
-| X      | X      | X           |
+Head over to our [kanban board](https://github.com/jsstrn/book-club/projects/1) to view the current schedule.
 
 ## 💬 Discussions
 
