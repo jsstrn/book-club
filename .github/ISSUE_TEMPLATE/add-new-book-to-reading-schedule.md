@@ -9,3 +9,12 @@ assignees: ''
 
 **Title:** Title of the book
 **Author(s):** Authors of the book
+
+<details>
+<summary>Chapters</summary>
+
+1. - [ ] Title of chapter 1
+1. - [ ] Title of chapter 2
+1. - [ ] Title of chapter 3
+
+</details>
